@@ -1,0 +1,70 @@
+repo_name: BhautikStackshare/learn-a
+report_id: a9aecb043154b939304a067b76c77360
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-19T13:31:38+00:00'
+requested_by: RyanCavanaugh
+provider: github
+branch: master
+detected_tools_count: 5
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/BhautikStackshare/learn-a/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ryan Cavanaugh
+  last_updated_on: 2018-06-27 18:15:34.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/BhautikStackshare/learn-a
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/BhautikStackshare/learn-a
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/BhautikStackshare/learn-a/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ryan Cavanaugh
+  last_updated_on: 2018-06-27 18:15:34.000000000 Z
+- name: Lerna
+  description: A tool for managing JavaScript projects
+  website_url: https://lerna.js.org/
+  version: 2.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg
+  detection_source_url: https://github.com/BhautikStackshare/learn-a/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Ryan Cavanaugh
+  last_updated_on: 2018-06-27 18:15:34.000000000 Z
